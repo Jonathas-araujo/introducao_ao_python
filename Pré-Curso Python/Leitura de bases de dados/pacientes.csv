@@ -1,0 +1,41 @@
+NOME;SEXO;IDADE;PESO_KG;UBS;DT_ATENDIMENTO
+Maria da Silva;F;34.0;68.5;UBS Central;2026-03-02
+Joao Pedro Souza;M;45.0;82.0;UBS Central;2026-03-02
+Ana Paula Lima;F;200.0;75.3;UBS Norte;2026-03-03
+Carlos Eduardo;M;29.0;; UBS Sul;2026-03-03
+  Francisca Alves  ;F;61.0;59.8;UBS Norte;2026-03-04
+Jose Ferreira;M;;90.1;UBS Central;2026-03-04
+Maria da Silva;F;34.0;68.5;UBS Central;2026-03-02
+Rita de Cassia;F;52.0;71.2;UBS Sul;2026-03-05
+Antonio Carlos;M;8.0;30.4;UBS Norte;2026-03-05
+Juliana Santos;F;27.0;62.0;UBS Central;2026-03-06
+Pedro Henrique;M;39.0;77.5;UBS Sul;2026-03-06
+  Marcos Vinicius;M;71.0;0.0;UBS Norte;2026-03-07
+Sandra Regina;F;44.0;65.9;UBS Central;2026-03-07
+Luiz Gonzaga;M;;88.3;UBS Sul;2026-03-08
+Patricia Gomes;F;19.0;54.2;UBS Norte;2026-03-08
+Roberto Carlos;M;33.0;79.0;UBS Central;2026-03-09
+Fernanda Dias;F;58.0;61.7;UBS Sul;2026-03-09
+Joao Pedro Souza;M;45.0;82.0;UBS Central;2026-03-02
+Camila Ribeiro;F;22.0;58.4;UBS Norte;2026-03-10
+Bruno Costa;M;47.0;95.6;UBS Central;2026-03-10
+Vera Lucia;F;66.0;66.3;UBS Sul;2026-03-11
+Marcos Vinicius;M;71.0;84.1;UBS Norte;2026-03-07
+Aline Cristina;F;31.0;63.5;UBS Central;2026-03-12
+Rafael Nunes;M;15.0;45.0;UBS Sul;2026-03-12
+Silvia Helena;F;49.0;70.2;UBS Norte;2026-03-13
+Eduardo Pires;M;-5.0;78.9;UBS Central;2026-03-13
+Tatiane Moraes;F;60.0;60.1;UBS Sul;2026-03-14
+Gabriel Rocha;M;26.0;33.7;UBS Norte;2026-03-14
+Larissa Melo;F;38.0;57.8;UBS Central;2026-03-15
+Diego Fernandes;M;42.0;81.4;UBS Sul;2026-03-15
+Monica Barbosa;F;55.0;69.9;UBS Norte;2026-03-16
+Thiago Araujo;M;30.0;74.6;UBS Central;2026-03-16
+Cristina Farias;F;24.0;;UBS Sul;2026-03-17
+Vinicius Teixeira;M;68.0;87.2;UBS Norte;2026-03-17
+Adriana Castro;F;37.0;64.0;UBS Central;2026-03-18
+Renato Lopes;M;41.0;76.3;UBS Sul;2026-03-18
+Beatriz Cardoso;F;12.0;40.2;UBS Norte;2026-03-19
+Felipe Andrade;M;53.0;80.5;UBS Central;2026-03-19
+Simone Ramos;F;46.0;67.8;UBS Sul;2026-03-20
+Wagner Duarte;9;63.0;72.1;UBS Norte;2026-03-20
